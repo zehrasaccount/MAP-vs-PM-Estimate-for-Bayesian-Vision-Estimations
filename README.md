@@ -1,3 +1,4 @@
+Based on: http://www.cns.nyu.edu/malab/bayesianbook.html
 # MAP-vs-PM-Estimate-for-Bayesian-Vision-Estimations
 1) (Based on Problem 6.3) In Section 6.1, we noted that the probability of rain the next day was given by the posterior mean estimate, and was different from the most probable value of the rainfall rate, r, on the island, which is the MAP estimate. Suppose you’ve been on the island for 4 days, and it has rained only once.
 
